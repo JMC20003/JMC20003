@@ -4,8 +4,9 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=👋+Hola,+soy+Josue+Moreira+Campos!;💻+Ingeniero+de+Sistemas+de+Información;🚀+FullStack+Developer+con+Angular,+React+y+Spring+Boot;☁️+Apasionado+por+la+tecnología,+la+innovación+y+el+aprendizaje" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=👋+Hola,+soy+Josue+Moreira!;💻+Ingeniero+de+Sistemas+de+Información;🚀+Desarrollador+Full+Stack+|+Spring+Boot+%2B+Angular;🌎+Apasionado+por+la+innovación+y+la+tecnología" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 🧠 Sobre mí  
