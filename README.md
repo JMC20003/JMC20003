@@ -91,8 +91,8 @@ Mi meta es seguir creciendo dentro del ecosistema tecnológico peruano, apoyando
 ### 📫 Contacto  
 
 📍 **Lima, Perú**  
-📧 **Correo:** (mailto:u202123541@gmail.com)  
-💼 **LinkedIn:** (https://www.linkedin.com/in/josue-benjamin-moreira-campos)  
+📧 [u202123541@gmail.com](mailto:u202123541@gmail.com)  
+🌐 [LinkedIn: Josue Benjamin Moreira Campos](https://www.linkedin.com/in/josue-benjamin-moreira-campos)  
 🌐 **Portafolio:** ([https://tuportafolio.com](https://portafolio-pearl-alpha-66.vercel.app))  
 📱 +51 960 506 672  
 
