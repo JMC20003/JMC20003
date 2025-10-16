@@ -90,13 +90,32 @@ Mi meta es seguir creciendo dentro del ecosistema tecnológico peruano, apoyando
 
 ### 📫 Contacto  
 
-📍 **Lima, Perú**  
-📧 [u202123541@gmail.com](mailto:u202123541@gmail.com)  
-🌐 [LinkedIn: Josue Benjamin Moreira Campos](https://www.linkedin.com/in/josue-benjamin-moreira-campos)  
-🌐 **Portafolio:** ([https://tuportafolio.com](https://portafolio-pearl-alpha-66.vercel.app))  
-📱 +51 960 506 672  
+<p align="center">
+  <a href="https://www.google.com/maps/place/Lima,+Perú" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="30" alt="Ubicación" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:u202123541@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Correo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/josue-benjamin-moreira-campos" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portafolio-pearl-alpha-66.vercel.app" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30" alt="Portafolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/51960506672" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" alt="WhatsApp" />
+  </a>
+</p>
 
----
+<p align="center">
+  📍 Lima, Perú · 📧 u202123541@gmail.com · 📞 +51 960 506 672  
+</p>
+
 
 <h3 align="center">💬 “El código es arte cuando resuelve problemas reales.” ⚡</h3>
 
