@@ -1,123 +1,174 @@
-<!--
-   Perfil GitHub - Josue Moreira Campos (JMC20003)
-   Estilo: Tech Pro + Azul Neón + Modo Oscuro
--->
+<!-- Encabezado animado -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=JOSUE+MOREIRA;Ingeniero+de+Sistemas+de+Información;Full+Stack+Developer+%7C+Spring+Boot+%2B+Angular;Apasionado+por+la+Innovación+y+la+Tecnología" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=👋+Hola,+soy+Josue+Moreira!;💻+Ingeniero+de+Sistemas+de+Información;🚀+Desarrollador+Full+Stack+|+Spring+Boot+%2B+Angular;🌎+Apasionado+por+la+innovación+y+la+tecnología" alt="Typing SVG" />
-</p>
+<!-- Separador decorativo -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00FFFF&height=100&section=header"/>
 
----
+<!-- Botones de navegación -->
+<div align="center">
 
-### 🧠 Sobre mí  
+| [👤 PERFIL](#-perfil) | [🛠️ HABILIDADES](#️-habilidades) | [📦 PROYECTOS](#-proyectos) | [✉️ CONTACTO](#-contacto) |
+|:---------------------:|:--------------------:|:--------------------:|:------------------:|
 
-Soy **Ingeniero de Sistemas de Información** con experiencia en el desarrollo web **Full Stack**, combinando frameworks modernos como **Spring Boot**, **Angular**, **Laravel** y **React**.  
-He trabajado tanto en **entornos empresariales** como en **proyectos freelance**, donde diseñé e implementé sistemas completos, desde el análisis hasta el despliegue en **Docker + AWS EC2**.  
-
-Me caracteriza mi **aprendizaje rápido**, **colaboración en equipo** y **orientación a resultados**.  
-Mi meta es seguir creciendo dentro del ecosistema tecnológico peruano, apoyando a **startups e iniciativas de innovación digital**.
+</div>
 
 ---
 
-### 💼 Experiencia Profesional  
+## 👤 PERFIL
+<div align="center">
 
-#### 🚀 **NeonHouseLed S.A.C** — *Desarrollador Web FullStack Junior*  
-📍 *Lima, Perú | Ago 2025 – Actualidad*  
-- Desarrollo y mejora continua de la plataforma web **Contigo Voy**, optimizando rendimiento y escalabilidad.  
-- Implementación de un **módulo de estadísticas en tiempo real** y un **sistema de gestión de roles**.  
-- Creación de nuevas **API REST** y optimización del backend con buenas prácticas de arquitectura.  
+<img src="https://github.com/JMC20003.png" width="200" style="border-radius: 50%; border: 4px solid #00FFFF;"/>
 
-#### 💡 **Freelancer** — *Desarrollador FullStack Junior*  
-📍 *Lima, Perú | Ene 2025 – Ago 2025*  
-- Diseño e implementación de **sistemas postventa integrales** para restaurantes y tiendas.  
-- Arquitectura escalable basada en **Spring Boot + Angular** con despliegue **Docker + AWS EC2**.  
-- Comunicación en tiempo real mediante **WebSockets** y documentación técnica completa.  
+<h3 style="color: #00FFFF;">💡 Ingeniero de Sistemas | Desarrollador Full Stack</h3>
 
----
+<p><em>“Transformando ideas en soluciones digitales escalables y seguras.”</em></p>
 
-### ⚙️ Tecnologías y Herramientas  
+🔹 Especializado en **Spring Boot**, **Angular**, **PostgreSQL**  
+🔹 Con experiencia en **arquitectura de sistemas, integración API y despliegue en la nube**  
+🔹 Enfocado en **optimizar procesos y experiencia de usuario**
 
-#### 🖥️ Lenguajes & Frameworks  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🧩 Frameworks & Librerías  
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-#### 🗄️ Bases de Datos & Backend  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-APIs-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
-
-#### ☁️ DevOps & Cloud  
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
-
-#### 🔧 Otras Habilidades  
-- Control de versiones con **Git / GitHub**  
-- Despliegue continuo (**CI/CD**)  
-- **Documentación técnica** y diagramas UML  
-- **Trabajo colaborativo ágil (Scrum)**  
+</div>
 
 ---
 
-### 📊 GitHub Stats  
+## 🛠️ HABILIDADES
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JMC20003&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMC20003&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF" />
-</p>
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+  
+<div style="background: linear-gradient(45deg, #00FFFF, #0066CC); padding: 15px; border-radius: 10px;">
+<h4 style="color: white;">💻 Frontend</h4>
+<img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap,tailwind"/>
+</div>
 
----
+</td>
+<td align="center" width="25%">
+  
+<div style="background: linear-gradient(45deg, #0D7377, #32E0C4); padding: 15px; border-radius: 10px;">
+<h4 style="color: white;">⚙️ Backend</h4>
+<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express"/>
+</div>
 
-### ⚡ Actividad Reciente
+</td>
+<td align="center" width="25%">
+  
+<div style="background: linear-gradient(45deg, #083358, #00BFFF); padding: 15px; border-radius: 10px;">
+<h4 style="color: white;">🗄️ Bases de Datos</h4>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb"/>
+</div>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+</td>
+<td align="center" width="25%">
+  
+<div style="background: linear-gradient(45deg, #010B13, #00FFFF); padding: 15px; border-radius: 10px;">
+<h4 style="color: white;">☁️ DevOps</h4>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws"/>
+</div>
 
-*(Se actualizará automáticamente con tus commits y PRs cuando activemos el workflow.)*
-
----
-
-### 📫 Contacto  
-
-<p align="center">
-  <a href="https://www.google.com/maps/place/Lima,+Perú" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="30" alt="Ubicación" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:u202123541@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Correo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/josue-benjamin-moreira-campos" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://portafolio-pearl-alpha-66.vercel.app" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30" alt="Portafolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/51960506672" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" alt="WhatsApp" />
-  </a>
-</p>
-
-<p align="center">
-  📍 Lima, Perú · 📧 u202123541@gmail.com · 📞 +51 960 506 672  
-</p>
-
-
-<h3 align="center">💬 “El código es arte cuando resuelve problemas reales.” ⚡</h3>
+</td>
+</tr>
+</table>
 
 ---
 
+## 📦 PROYECTOS
+
+<div align="center">
+<table>
+<tr>
+
+<td width="50%">
+<div style="border: 2px solid #00FFFF; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #0D1117, #001F3F);">
+
+<h3>🧾 Sistema de Ventas e Inventario</h3>
+
+<p><strong>Descripción:</strong> Aplicación de escritorio con sincronización web en tiempo real para gestión de stock y ventas.</p>
+
+<div>
+  <img src="https://img.shields.io/badge/Spring_Boot-00FFFF?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</div>
+
+<details>
+<summary><strong>🔍 Ver Detalles</strong></summary>
+<br>
+<ul>
+<li>Arquitectura multicapa (DAO, Servicios, Controladores)</li>
+<li>Integración con backend REST</li>
+<li>Despliegue en Render + Firebase Hosting</li>
+</ul>
+</details>
+
+</div>
+</td>
+
+<td width="50%">
+<div style="border: 2px solid #0077FF; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #0D1117, #002244);">
+
+<h3>🌐 Plataforma E-commerce</h3>
+
+<p><strong>Descripción:</strong> Tienda online responsive con carrito, pagos y gestión de productos conectada a backend seguro.</p>
+
+<div>
+  <img src="https://img.shields.io/badge/Angular-00BFFF?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-00FFFF?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</div>
+
+<details>
+<summary><strong>🔍 Ver Detalles</strong></summary>
+<br>
+<ul>
+<li>Autenticación JWT con Spring Security</li>
+<li>Gestión de stock en tiempo real</li>
+<li>Frontend moderno con Angular Material</li>
+</ul>
+</details>
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📈 ESTADÍSTICAS
+
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=JMC20003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=JMC20003&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JMC20003&bg_color=0d1117&color=00FFFF&line=0077FF&point=FFFFFF&area=true&hide_border=true&custom_title=Actividad%20de%20Contribución"/>
+
+</div>
+
+---
+
+## ✉️ CONTACTO
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u202123541@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josue-benjamin-moreira-campos)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JMC20003)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00FFFF&height=100&section=footer"/>
+<p><em style="color:#00FFFF;">"El código es arte cuando resuelve problemas reales con elegancia y propósito."</em></p>
+</div>
