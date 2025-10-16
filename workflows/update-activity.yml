@@ -1,0 +1,20 @@
+name: 💫 Actualizar Actividad de Josue Moreira Campos
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # cada 12 horas
+  workflow_dispatch: # permite ejecutarlo manualmente
+
+jobs:
+  update-readme:
+    name: 🧠 Actualizar README
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🛠️ Clonar repositorio
+        uses: actions/checkout@v3
+
+      - name: ⚡ Generar actividad reciente
+        uses: JamesIves/github-activity-readme@v0.3.0
+        with:
+          COMMIT_MESSAGE: "🔄 Actualización automática de actividad"
+          MAX_LINES: 5
